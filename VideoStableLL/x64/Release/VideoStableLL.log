@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\x64\PlatformToolsets\v120\ImportAfter\Intel.Libs.MKL.v120.targets(37,5): warning : Could not expand MKLProductDir variable. The registry information may be incorrect.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\x64\PlatformToolsets\v120\ImportAfter\Intel.Libs.MKL.v120.targets(38,5): warning : Could not expand MKLMajorVersion variable. The registry information may be incorrect.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\x64\PlatformToolsets\v120\ImportAfter\Intel.Libs.MKL.v120.targets(39,5): warning : Could not expand MKLMinorVersion variable. The registry information may be incorrect.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\x64\PlatformToolsets\v120\ImportAfter\Intel.Libs.MKL.v120.targets(40,5): warning : Could not expand MKLIncludeDir variable. The registry information may be incorrect.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\x64\PlatformToolsets\v120\ImportAfter\Intel.Libs.MKL.v120.targets(41,5): warning : Could not expand MKLLibDir variable. The registry information may be incorrect.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\x64\PlatformToolsets\v120\ImportAfter\Intel.Libs.MKL.v120.targets(42,5): warning : Could not expand OmpLibDir variable. The registry information may be incorrect.
+  VideoStableLL.vcxproj -> F:\计算机图形学\VideoStableLL\x64\Release\VideoStableLL.exe
